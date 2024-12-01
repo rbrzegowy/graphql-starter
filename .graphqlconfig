@@ -1,0 +1,11 @@
+{
+  "schemaPath": "/gql-schema/schema.ts",
+  "documents": "src/**/*.gql",
+  "extensions": {
+    "endpoint": {
+      "default": {
+        "url": "http://localhost:4000/graphql"
+      }
+    }
+  }
+}
